@@ -1,10 +1,10 @@
 # Tic Tac Toe
 
 This is a simple implementation of the classic game Tic Tac Toe in HTML, CSS, and JavaScript.
-
+It leverages an implementation of the minimax algorithm to make decisions for the computer player. 
 ## How to Play
 
-To play the game, simply click on an empty square to place your X or O. The first player to get three in a row (horizontally, vertically, or diagonally) wins the game. If all squares are filled and no one has won, the game ends in a tie.
+To play the game, simply click on an empty square to place your X. The first player to get three in a row (horizontally, vertically, or diagonally) wins the game. If all squares are filled and no one has won, the game ends in a tie.
 
 You can play against the computer, which uses a minimax algorithm to determine its moves.
 
